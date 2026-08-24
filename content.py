@@ -90,8 +90,8 @@ SUPPORT = {
         "Отвечаем обычно в течение 15–30 минут."
     ),
     # ⭐ Вставьте сюда свои реальные ссылки (например, страницы на telegra.ph)
-    "privacy_url": "https://telegra.ph/Politika-konfidencialnosti-08-21-104",
-    "terms_url": "https://telegra.ph/Polzovatelskoe-soglashenie-08-21-73",
+    "privacy_url": "https://telegra.ph/Politika-konfidencialnosti-08-24-48",
+    "terms_url": "https://telegra.ph/Polzovatelskoe-soglashenie-08-24-28",
 }
 
 
